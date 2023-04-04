@@ -2,8 +2,6 @@
 
 A simple parser for python made using lex yacc / GNU's flex bison.
 
-The stable version currently supports only certain python expressions as stated below. The code for the same is in python-expression-parser directory. A similarly made python for-loop parser can also be found in the python-loop-parser directory.
-
 ## Build :
 
 ```bash
